@@ -1,2 +1,4 @@
-# NLP-disaster-tweets-
-Natural Language Processing with Disaster Tweets
+Ссылка на соревнование: https://www.kaggle.com/competitions/nlp-getting-started
+
+Задача:  построение модели, классифицирующей твиты на английском языке на содержащие информацию о чрезвычайном происшествии и не содержащие такой информации.
+
